@@ -8,6 +8,7 @@ public class Solution_end_of_file {
 
   public static void main(String[] args) {
 
+    String s;
     Scanner sc = new Scanner(System.in);
     boolean flag = true;
     int i = 0;
